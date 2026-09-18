@@ -1,0 +1,12 @@
+# --- Ne PAS publier : documents formateur (corrigés, guide, notebook résolu) ---
+/prof/
+
+# --- Sujet source interne (déroulé de la journée) ---
+/Bootcamp 6h – Pentest, Cybersécurité & AB Testing (M1 Reconversion).md
+
+# --- Scripts qui contiennent / révèlent le corrigé : gardés privés ---
+/build/gen_notebooks.py
+/build/gen_data.py
+
+# --- Divers ---
+.DS_Store
